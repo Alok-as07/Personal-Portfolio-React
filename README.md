@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -34,3 +35,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+=======
+# Personal-Portfolio-React
+Discover my React.js-powered personal portfolio, where innovative design meets seamless functionality. Elevate your online presence with a showcase of my web development expertise
+>>>>>>> 564c30df6745d02ea2e67f79c5f765f769460d49
